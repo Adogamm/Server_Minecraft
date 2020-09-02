@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "f816112b-d843-3304-8200-2e3128099f67",
+    "name": "TacosDeTripa",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "95ad5097-4be8-3789-a3f0-7233dd8744a7",
+    "name": "naruanime103",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "35e8d866-caad-374a-819c-0d00824897d4",
     "name": "Adogamm",
     "level": 4,

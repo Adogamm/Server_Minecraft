@@ -1,8 +1,53 @@
-[00:06:38] [Server thread/INFO]: YukoCrakken was shot by Skeleton
-[00:07:32] [Server thread/INFO]: YukoCrakken was shot by Skeleton
-[00:09:25] [Server thread/INFO]: YukoCrakken lost connection: Disconnected
-[00:09:25] [Server thread/INFO]: YukoCrakken left the game
-[00:16:37] [Server thread/INFO]: YukoCrakken[/201.114.87.69:35743] logged in with entity id 47749 at (-292.66054957252186, 64.0, 24.09852582006993)
-[00:16:37] [Server thread/INFO]: YukoCrakken joined the game
-[00:16:42] [Server thread/INFO]: YukoCrakken was shot by Skeleton
-[00:17:49] [Server thread/INFO]: YukoCrakken tried to swim in lava to escape Skeleton
+[01:17:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:17:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:17:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:17:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:17:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:17:30] [main/INFO]: Reloading ResourceManager: Default
+[01:17:33] [Worker-Main-2/INFO]: Loaded 7 recipes
+[01:17:33] [Worker-Main-2/INFO]: Loaded 927 advancements
+[01:17:35] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[01:17:35] [Server thread/INFO]: Loading properties
+[01:17:35] [Server thread/INFO]: Default game type: SURVIVAL
+[01:17:35] [Server thread/INFO]: Generating keypair
+[01:17:36] [Server thread/INFO]: Starting Minecraft server on 10.168.0.2:25565
+[01:17:36] [Server thread/INFO]: Using epoll channel type
+[01:17:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:17:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:17:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:17:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:17:36] [Server thread/INFO]: Preparing level "world"
+[01:17:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:17:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:17:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:17:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:17:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:17:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:17:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:17:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:17:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:17:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:17:41] [Server thread/INFO]: Preparing spawn area: 18%
+[01:17:42] [Server thread/INFO]: Time elapsed: 5780 ms
+[01:17:42] [Server thread/INFO]: Done (5.981s)! For help, type "help"
+[01:17:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[01:18:38] [Server thread/INFO]: Paty_Lu[/187.187.200.62:21382] logged in with entity id 514 at (-93.6427151445244, 88.0625, 131.14019651563555)
+[01:18:38] [Server thread/INFO]: Paty_Lu joined the game
+[01:18:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[01:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8441ms or 168 ticks behind
+[01:19:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[01:19:46] [Server thread/INFO]: Stopping the server
+[01:19:46] [Server thread/INFO]: Stopping server
+[01:19:46] [Server thread/INFO]: Saving players
+[01:19:46] [Server thread/INFO]: Paty_Lu lost connection: Server closed
+[01:19:46] [Server thread/INFO]: Paty_Lu left the game
+[01:19:46] [Server thread/INFO]: Saving worlds
+[01:19:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:19:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:19:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2020-09-08 19:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2020-08-15 13:30:17 +0000"
@@ -458,6 +464,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-08-15 17:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-09-08 19:47:45 +0000"
     },
     "done": true
   },
@@ -1339,6 +1351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-09-08 19:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2020-08-24 22:01:31 +0000"
@@ -1519,6 +1537,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2020-08-17 18:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-09-08 19:47:45 +0000"
     },
     "done": true
   },
@@ -2895,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-09-08 19:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_yellow_dye": "2020-08-19 19:09:39 +0000"
@@ -2922,6 +2952,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-08-15 13:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2020-09-08 19:29:28 +0000"
     },
     "done": true
   },

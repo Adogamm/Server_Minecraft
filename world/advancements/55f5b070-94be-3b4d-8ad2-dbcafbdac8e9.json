@@ -737,6 +737,7 @@
       "minecraft:skeleton": "2020-06-27 01:31:03 +0000",
       "minecraft:ravager": "2020-07-19 04:06:00 +0000",
       "minecraft:hoglin": "2020-06-28 06:56:11 +0000",
+      "minecraft:guardian": "2020-09-12 01:30:31 +0000",
       "minecraft:vindicator": "2020-07-16 04:39:49 +0000",
       "minecraft:spider": "2020-06-27 03:24:05 +0000",
       "minecraft:creeper": "2020-06-27 03:17:28 +0000",
@@ -2839,6 +2840,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-06-28 06:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-09-12 00:40:12 +0000"
     },
     "done": true
   },

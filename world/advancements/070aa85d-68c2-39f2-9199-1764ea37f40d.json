@@ -518,6 +518,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-06-28 07:51:30 +0000",
+      "minecraft:hoglin": "2020-10-01 03:13:02 +0000",
       "minecraft:spider": "2020-06-28 07:06:50 +0000",
       "minecraft:creeper": "2020-07-06 05:21:24 +0000",
       "minecraft:witch": "2020-07-06 05:15:10 +0000",
@@ -843,6 +844,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-07-02 06:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-10-01 03:16:46 +0000"
     },
     "done": true
   },
@@ -1535,6 +1542,7 @@
       "beetroot": "2020-09-26 04:54:18 +0000",
       "cooked_chicken": "2020-08-25 19:12:52 +0000",
       "cod": "2020-08-25 18:27:10 +0000",
+      "cooked_salmon": "2020-10-01 02:26:30 +0000",
       "carrot": "2020-07-03 22:39:54 +0000"
     },
     "done": false
@@ -1935,6 +1943,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-07-06 05:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-10-01 03:16:46 +0000"
     },
     "done": true
   },

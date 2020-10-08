@@ -1,25 +1,37 @@
-[00:01:23] [Server thread/INFO]: Paty_Lu lost connection: Disconnected
-[00:01:23] [Server thread/INFO]: Paty_Lu left the game
-[02:48:52] [Server thread/INFO]: El_Donny[/187.188.236.208:65422] logged in with entity id 65920 at (204.5, 51.0000002, -91.5)
-[02:48:52] [Server thread/INFO]: El_Donny joined the game
-[02:49:37] [Server thread/INFO]: El_Donny lost connection: Timed out
-[02:49:37] [Server thread/INFO]: El_Donny left the game
-[17:45:21] [Server thread/INFO]: Paty_Lu[/187.187.207.151:54406] logged in with entity id 66184 at (-93.5, 88.0625002, 131.5)
-[17:45:21] [Server thread/INFO]: Paty_Lu joined the game
-[17:51:04] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/67104, l='ServerLevel[world]', x=-182.52, y=69.00, z=154.82]
-[18:15:44] [Server thread/INFO]: Paty_Lu lost connection: Disconnected
-[18:15:44] [Server thread/INFO]: Paty_Lu left the game
-[23:07:01] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[23:07:04] [Server thread/INFO]: Stopping the server
-[23:07:04] [Server thread/INFO]: Stopping server
-[23:07:04] [Server thread/INFO]: Saving players
-[23:07:04] [Server thread/INFO]: Saving worlds
-[23:07:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:44:03] [Server thread/INFO]: Paty_Lu[/187.187.207.151:39554] logged in with entity id 538 at (-622.8569520433476, 63.0, 916.90996032017)
+[00:44:03] [Server thread/INFO]: Paty_Lu joined the game
+[00:44:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:59:40] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/4419, l='ServerLevel[world]', x=-208.90, y=64.00, z=252.60]
+[01:16:12] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/6954, l='ServerLevel[world]', x=-97.05, y=67.00, z=44.86]
+[01:30:55] [Server thread/INFO]: Adogam[/189.142.47.214:43486] logged in with entity id 10941 at (-174.69999998807907, 69.0, 142.26212051441914)
+[01:30:55] [Server thread/INFO]: Adogam joined the game
+[01:31:20] [Server thread/INFO]: <Adogam> Ya hay nueva ip
+[01:31:28] [Server thread/INFO]: <Adogam> So bais jajaja
+[01:31:38] [Server thread/INFO]: <Paty_Lu> jaja pudiste decirme en whats
+[01:32:32] [Server thread/INFO]: Adogam lost connection: Disconnected
+[01:32:32] [Server thread/INFO]: Adogam left the game
+[01:34:42] [Server thread/INFO]: There are 1 of a max of 20 players online: Paty_Lu
+[01:34:54] [Server thread/INFO]: [Server] Voy a parar el servidor
+[01:35:04] [Server thread/INFO]: <Paty_Lu> esperaaaa
+[01:35:05] [Server thread/INFO]: [Server] avisame cuando se pueda xd
+[01:35:16] [Server thread/INFO]: <Paty_Lu> yo queria ver nacer mi tortuguita jajaja
+[01:35:54] [Server thread/INFO]: [Server] dont worry en el momento en el que se detenga será el mismo momento en el que aparezcas en el nuevo server
+[01:36:14] [Server thread/INFO]: <Paty_Lu> jaja y cuando tendremos nuevo server?
+[01:36:37] [Server thread/INFO]: [Server] en diez minutos a partir de que te desconectes
+[01:36:47] [Server thread/INFO]: <Paty_Lu> vavava uwu
+[01:36:51] [Server thread/INFO]: <Paty_Lu> bueno, dale :'v
+[01:36:53] [Server thread/INFO]: Paty_Lu lost connection: Disconnected
+[01:36:53] [Server thread/INFO]: Paty_Lu left the game
+[01:36:59] [Server thread/INFO]: Stopping the server
+[01:36:59] [Server thread/INFO]: Stopping server
+[01:36:59] [Server thread/INFO]: Saving players
+[01:36:59] [Server thread/INFO]: Saving worlds
+[01:36:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:37:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:37:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:37:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:37:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:37:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:37:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:37:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:37:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
